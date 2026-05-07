@@ -1,1 +1,1 @@
-## Solve Problem On TypeScript
+## Solve Problem n TypeScript
