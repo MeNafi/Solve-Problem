@@ -1,3 +1,2 @@
 ## Solve Problem On TypeScript
 
-##
