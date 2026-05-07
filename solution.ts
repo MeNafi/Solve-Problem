@@ -16,7 +16,6 @@ function reverseString(value: string){
 
 console.log('"'+ reverseString("typescript") + '"');
 
-
 //Problem 3 solution
 
 type StringOrNumber = string | number;
@@ -28,7 +27,6 @@ function checkType(input: StringOrNumber): string {
     return "Number";
   }
 }
-
 
 console.log(checkType("Hello")); 
 console.log(checkType(42));   
@@ -42,7 +40,6 @@ function getProperty<T, K extends keyof T>(obj: T, key: K): T[K] {
 
 const user = { id: 1, name: "John Doe", age: 21 };
 console.log(getProperty(user, "name")); 
-
 
 
 //Problem 5 solution
