@@ -56,3 +56,24 @@ function toggleReadStatus(book: Book): Book & { isRead: boolean } {
 
 const myBook = { title: "TypeScript Guide", author: "Jane Doe", publishedYear: 2024 };
 console.log(toggleReadStatus(myBook));
+
+//Problem 6 solution
+
+class Person {
+  constructor(public name: string, public age: number) {}
+}
+
+class Student extends Person {
+  constructor(name: string, age: number, public grade: string) {
+    super(name, age);
+  }
+
+  getDetails(): string {
+    return `Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`;
+  }
+}
+
+const student = new Student("Alice", 20, "A");
+console.log(student.getDetails()); 
+
+//Problem 7 solution
