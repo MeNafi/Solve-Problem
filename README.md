@@ -1,1 +1,1 @@
-## Solve Proble
+## Solve Problem Type
