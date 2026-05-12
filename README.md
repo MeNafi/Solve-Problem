@@ -1,2 +1,2 @@
-## Solve Problem On TypeScripopppp
+## Solve Problem On TypeScrip
 
