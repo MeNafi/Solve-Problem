@@ -1,4 +1,2 @@
-## Solve Problem On TypeScript
-
-##### Blog
+## Solve Problem On TypeScriptt
 
