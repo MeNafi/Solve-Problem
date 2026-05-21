@@ -1,3 +1,3 @@
-## Solve Problem On TypeScriptt
+## Solve Problem On TypeScript
 
 
